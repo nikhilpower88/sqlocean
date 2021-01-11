@@ -1,0 +1,2 @@
+# sqlocean
+sql learning
